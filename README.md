@@ -1,4 +1,4 @@
-# MutationalSignatures
+# Mutational Signature Integrative Analysis
 How Arbitrary Choices Impact on CRC Mutational Signatures Profile
 
 This folder contains the script used in the paper. 
