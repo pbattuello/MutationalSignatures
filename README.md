@@ -1,5 +1,5 @@
-# Mutational Signature Integrative Analysis
-How Arbitrary Choices Impact on CRC Mutational Signatures Profile
+# Mutational signatures of colorectal cancers according to distinct computational workflows 
+How Arbitrary Choices Impact on CRC Mutational Signature Profile
 
-This folder contains the script used in the paper. 
-In each of the folders are present the scripts of each of the result of the paper.
+This folder contains the script and rawdata used in the paper. 
+In each folder of this repository are present the scripts of each of the result of the paper.
